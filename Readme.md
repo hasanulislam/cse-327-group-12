@@ -1,1 +1,1 @@
-Hospita Billing System
+Hospital Billing System
